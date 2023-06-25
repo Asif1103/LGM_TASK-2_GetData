@@ -1,0 +1,71 @@
+.navbar {
+    color: rgb(0, 0, 0);
+    height: 8rem;
+    background-image: linear-gradient(to right, rgba(3, 159, 250, 0.734), rgb(110, 238, 85));
+    box-shadow: 0 8px 10px -5px gray;
+    border-bottom: 0.5px solid gray;
+    text-align: center;
+}
+.form-control{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: medium;
+    color: black;
+}
+
+.form {
+    margin-right: 28rem;
+    text-align: center;
+}
+
+.btn {
+    
+    width: 8rem;
+    size: 20px;
+    color: aliceblue;
+    background-color: rgb(4, 121, 20);
+    border-radius: 20px;
+    border: gold;
+    height: 30px;
+    font-size: medium;
+}
+
+.navbar-brand {
+    font-size: 30px !important;
+}
+
+.card {
+    margin: 10px;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 20px;
+    background-image: linear-gradient( rgb(135, 32, 145),rgba(226, 36, 36, 0.734));
+    float: left;
+    padding: 20px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.card-img-top{
+    border-radius: 15px;
+}
+
+.details {
+    margin-left: 5rem;
+}
+input{
+    width: 150px;
+    height: 25px;
+    border-radius: 10px;
+    border-color: rgb(245, 33, 5);
+    background-color: rgb(191, 224, 243);
+    margin-right: 20px;
+}
+.d-flex{
+    align-items: center;
+    margin-left: 50px;
+    color: rgb(5, 15, 1);
+    text-align: center;
+}
